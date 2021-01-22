@@ -5,6 +5,13 @@ body {
     animation: gradient 5s ease infinite;
 }
 
+#firstsec {
+	background: linear-gradient(-45deg, #ACFEA3,#AFF3E8,#FED3F6,#FFB6C1);
+    background-size: 400% 400%;
+    animation: gradient 5s ease infinite;
+
+}
+
 ul.threed {
 	position: absolute;
 	top: 50%;
