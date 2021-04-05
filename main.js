@@ -14,7 +14,7 @@ window.addEventListener("DOMContentLoaded", function() {
     }
 
     function error() {
-      status.innerHTML = "Oops! There was a problem.";
+      status.innerHTML = "Please enter all fields !!";
     }
 
     // handle the form submission event
