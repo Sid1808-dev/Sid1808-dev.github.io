@@ -9,111 +9,78 @@
 </head>
 
 <body>
-<div class="macbook">
-  <div class="inner">
-    <div class="screen">
-      <div class="face-one">
-        <div class="camera"></div>
-        <div class="display">
-          <div class="shade"></div>
-        </div>
-        <span>Macbook Air</span>
-      </div>
-      <img src="http://www.clker.com/cliparts/i/s/H/f/4/T/apple-logo-white.svg" class="logo" />
-    </div>
-    <div class="body">
-      <div class="face-one">
-        <div class="touchpad">
-        </div>
-        <div class="keyboard">
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key space"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-          <div class="key f"></div>
-        </div>
-      </div>
-      <div class="pad one"></div>
-      <div class="pad two"></div>
-      <div class="pad three"></div>
-      <div class="pad four"></div>
-    </div>
-  </div>
-  <div class="shadow">
-    <H1>Loading !!</H1>
-  </div>
+
+  <style type="text/css">
+    .container {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #292970;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  align-content: center;
+}
+
+.flex {
+  min-height: 60pt;
+}
+
+@keyframes loading {
+  0% {
+    width: 50pt;
+    height: 50pt;
+    margin-top: 0;
+  }
+  25% {
+    height: 4pt;
+    margin-top: 23pt;
+  }
+  50% {
+    width: 4pt;
+  }
+  75% {
+    width: 50pt;
+  }
+  100% {
+    width: 50pt;
+    height: 50pt;
+    margin-top: 0;
+  }
+}
+
+.loader {
+  width: 50pt;
+  height: 50pt;
+  align-items: center;
+  border-radius: 100%;
+  border: #6767fa 4pt solid;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: transparent;
+  animation: loading 1s infinite;
+}
+
+.load-text {
+  padding-top: 15px;
+  text-align: center;
+  font: 20pt "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: whitesmoke;
+}
+  </style>
+
+ <div class="container">
+<div class="flex">
+<div class="loader">
+</div>
+</div>
+<div class="load-text">
+   .. Loading ..
+</div>
 </div>
 
-  
 </body>
 </html>
