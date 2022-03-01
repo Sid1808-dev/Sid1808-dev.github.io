@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #9",
+  "description": "This is for basic NFT demo",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "dna": "41e0168ba6de603d5d6f9a24bb7b7c82631cd900",
+  "edition": 9,
+  "date": 1646118121129,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

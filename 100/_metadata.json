@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "This is for basic NFT demo",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "a21ae2bb43ab2b5f2448ac5d96404e72e9198781",
+    "edition": 1,
+    "date": 1646118119538,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "This is for basic NFT demo",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "d3b85aab84a8810e2d0caf38dd1cdfc5e3ea11d8",
+    "edition": 2,
+    "date": 1646118119738,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "This is for basic NFT demo",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "71d3c9c15f4312d593694b91c4c53172db898206",
+    "edition": 3,
+    "date": 1646118120037,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "This is for basic NFT demo",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "41b505f4318b7f469c47f1abbba0431f7d0abc50",
+    "edition": 4,
+    "date": 1646118120205,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "This is for basic NFT demo",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "5258537f9cb9809d0002961fdf39d1cc8f27d87f",
+    "edition": 5,
+    "date": 1646118120396,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "This is for basic NFT demo",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "8aac49dd74e03342d462bd9052cd5be1aeedc6a9",
+    "edition": 6,
+    "date": 1646118120568,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "This is for basic NFT demo",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "b12e94ae8a5e4166f953ca3100ecc90a3189c1e9",
+    "edition": 7,
+    "date": 1646118120736,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "This is for basic NFT demo",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "33f9c0add9a15304d43d16af3804204b34422565",
+    "edition": 8,
+    "date": 1646118120900,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "This is for basic NFT demo",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "41e0168ba6de603d5d6f9a24bb7b7c82631cd900",
+    "edition": 9,
+    "date": 1646118121129,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "This is for basic NFT demo",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "01f773ac1b5a67929370a6ff1ed5cef02cf13625",
+    "edition": 10,
+    "date": 1646118121281,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
